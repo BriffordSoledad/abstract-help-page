@@ -184,7 +184,7 @@ section {
 
 /* FOOTER SECTION */
 footer {
-    height: 45vh;
+    /*height: 45vh;*/
     box-sizing: border-box;
     min-height: fit-content;
     background-color: #000000;
